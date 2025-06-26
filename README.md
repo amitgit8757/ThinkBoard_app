@@ -1,1 +1,1 @@
-# ThinkBoard_app
+Use npm install to install all the package 
